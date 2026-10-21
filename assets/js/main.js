@@ -16,8 +16,8 @@
  */
 var SITE_CONFIG = {
   formEndpoint: "https://formsubmit.co/ajax/support@hotelsuport.com",
-  phoneDisplay: "877-360-4334",
-  phoneHref: "tel:+18773604334",
+  phoneDisplay: "877-523-1664",
+  phoneHref: "tel:+18775231664",
   email: "support@hotelsuport.com"
 };
 

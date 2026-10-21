@@ -23,9 +23,9 @@ Static hotel-enquiry website (HTML/CSS/JS only) for **www.hotelsuport.com**, bui
 The phone number appears in three formats. Find and replace all three across every `.html` file and `assets/js/main.js`:
 | Find | Replace with (example for 888-555-0123) |
 |---|---|
-| `877-360-4334` | `888-555-0123` |
-| `+18773604334` | `+18885550123` |
-| `+1-877-360-4334` | `+1-888-555-0123` |
+| `877-523-1664` | `888-555-0123` |
+| `+18775231664` | `+18885550123` |
+| `+1-877-523-1664` | `+1-888-555-0123` |
 
 Also regenerate `assets/img/og-image.png` (the social sharing image shows the number), or ask for it to be regenerated.
 
